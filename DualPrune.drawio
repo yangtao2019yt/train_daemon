@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T09:11:06.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="pWdFSSATIcLLICZYoCOS" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T09:14:22.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="dBytyfShjnAOk97aWVXn" version="22.1.11" type="github">
   <diagram name="第 1 页" id="FdrmFEtH9qm_V42ZxL6O">
     <mxGraphModel dx="682" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,14 +110,20 @@
             <mxPoint x="372" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S3QeHbJbjC5ekCXG173Q-53" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;StepⅠ&lt;/b&gt;: fix S, optimize W&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Step Ⅱ&lt;/b&gt;: fix W, optimize S&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113.5" y="245" width="160" height="60" as="geometry" />
+        <mxCell id="S3QeHbJbjC5ekCXG173Q-53" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;b&gt;StepⅠ&lt;/b&gt;: fix S, optimize W&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Step Ⅱ&lt;/b&gt;: fix W, optimize S&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="245" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3QeHbJbjC5ekCXG173Q-56" value="&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;sparse&lt;br&gt;binary&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S3QeHbJbjC5ekCXG173Q-56" value="&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;sparse&lt;br&gt;binary&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="330" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S3QeHbJbjC5ekCXG173Q-58" value="&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;sparse&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S3QeHbJbjC5ekCXG173Q-58" value="&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;sparse&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="260" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S3QeHbJbjC5ekCXG173Q-59" value="&lt;b style=&quot;&quot;&gt;dense&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="210" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S3QeHbJbjC5ekCXG173Q-60" value="&lt;b style=&quot;&quot;&gt;dense&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="335" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
